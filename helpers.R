@@ -156,3 +156,4 @@ get_pred <- function(text) {
     }
     return(" ")
 }
+
