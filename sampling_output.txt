@@ -1,0 +1,14 @@
+> source("sampling.R")
+> read_dataset()
+[1] "Sampling 30 percent of corpora files."
+[1] "Read news.txt => 1010242 lines"
+Sampling 303072 lines
+Interval= 3  Starting value= 1 
+[1] "Read twitter.txt => 2360148 lines"
+Sampling 708044 lines
+Interval= 3  Starting value= 1 
+[1] "Read blogs.txt => 899288 lines"
+Sampling 269786 lines
+Interval= 3  Starting value= 1 
+[1] "Read 4,269,678 lines of text and write to 3 RDS files (264569.8 Kb) in 334.423 minutes"
+> 
